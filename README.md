@@ -44,7 +44,7 @@ Os datasets famosos dos Índios Pima e do Titanic foram obtidos em [UCI Machine 
 
 Informações de Descrição e Licença do dado podem ser encontradas nos links acima.
 
-Os dados de autores e documentos da Câmara e Senado Federal foram extraídos das APIs de Dados Abertos de cada casa legislativa utilizando o pacote leggoR(https://github.com/parlametria/leggoR).
+Os dados de autores e documentos da Câmara e Senado Federal foram extraídos das APIs de Dados Abertos de cada casa legislativa utilizando o pacote [leggoR](https://github.com/parlametria/leggoR).
 
 Boa parte do código foi feita com base em exemplos encontrados em sites como o [TowardsDataScience](https://towardsdatascience.com).
 
